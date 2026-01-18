@@ -1,5 +1,5 @@
 specialty: "Emergency Medicine"
 model_size: "xlarge"
-status: "in-progress"
+status: "near-complete"
 lexical_policy: "real_terms_only"
-description: "Emergency Medicine XL – deep saturation labs and imaging vocabulary"
+description: "Emergency Medicine XL – deep trauma, toxicology, imaging findings, abbreviations, and dictation phrases"
