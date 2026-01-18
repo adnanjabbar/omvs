@@ -1,0 +1,12 @@
+- measurement: "size"
+  format: "L × W × H"
+  units: ["mm", "cm"]
+
+- measurement: "wall thickness"
+  units: ["mm"]
+
+- measurement: "volume"
+  units: ["ml", "cc"]
+
+- measurement: "diameter"
+  units: ["mm", "cm"]
