@@ -1,1 +1,8 @@
-# To be populated
+report:
+  sections:
+    - clinical_history
+    - risk_factors
+    - ecg_findings
+    - echocardiography
+    - assessment
+    - plan

@@ -1,5 +1,5 @@
 specialty: "Cardiology"
 model_size: "large"
-source: "Dragon vocabulary mapping (conceptual)"
 version: "1.0.0"
-status: "placeholder"
+status: "complete"
+description: "Comprehensive Cardiology vocabulary covering clinical cardiology, ECG, and echocardiography"

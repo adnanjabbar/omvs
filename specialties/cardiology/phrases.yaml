@@ -1,1 +1,8 @@
-# To be populated
+- phrase: "ECG shows"
+  intent: "ecg_interpretation"
+- phrase: "echocardiography reveals"
+  intent: "echo_interpretation"
+- phrase: "suggestive of ischemia"
+  intent: "ischemia"
+- phrase: "left ventricular function"
+  intent: "echo_summary"

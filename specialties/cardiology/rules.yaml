@@ -1,1 +1,7 @@
-# To be populated
+- rule: "stemi-alert"
+  description: "ST elevation in contiguous leads suggests STEMI"
+  action: "alert_user"
+
+- rule: "ef-classification"
+  description: "EF should be classified as reduced, mid-range, or preserved"
+  action: "suggest"
