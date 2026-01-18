@@ -1,1 +1,8 @@
-# To be populated
+- phrase: "known case of"
+  intent: "past_medical_history"
+- phrase: "presenting with"
+  intent: "chief_complaint"
+- phrase: "on examination"
+  intent: "physical_exam"
+- phrase: "plan is to"
+  intent: "management"

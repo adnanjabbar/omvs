@@ -1,1 +1,9 @@
-# To be populated
+report:
+  sections:
+    - chief_complaint
+    - history_of_present_illness
+    - past_medical_history
+    - examination
+    - investigations
+    - assessment
+    - plan

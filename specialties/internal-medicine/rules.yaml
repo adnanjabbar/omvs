@@ -1,1 +1,7 @@
-# To be populated
+- rule: "chronic-disease-continuity"
+  description: "Chronic diagnoses should be referenced in assessment and plan"
+  action: "suggest"
+
+- rule: "acute-on-chronic"
+  description: "AKI, AHF should be labeled as acute on chronic when applicable"
+  action: "suggest"

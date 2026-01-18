@@ -1,5 +1,5 @@
 specialty: "Internal Medicine"
 model_size: "large"
-source: "Dragon vocabulary mapping (conceptual)"
 version: "1.0.0"
-status: "placeholder"
+status: "complete"
+description: "Comprehensive Internal Medicine vocabulary covering acute and chronic adult medical care"

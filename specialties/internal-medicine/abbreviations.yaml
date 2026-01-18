@@ -1,1 +1,10 @@
-# To be populated
+- abbreviation: "HTN"
+  expansion: "hypertension"
+- abbreviation: "DM"
+  expansion: "diabetes mellitus"
+- abbreviation: "CKD"
+  expansion: "chronic kidney disease"
+- abbreviation: "COPD"
+  expansion: "chronic obstructive pulmonary disease"
+- abbreviation: "AKI"
+  expansion: "acute kidney injury"

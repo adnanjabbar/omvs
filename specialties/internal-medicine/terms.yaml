@@ -1,1 +1,47 @@
-# To be populated
+# Chronic Diseases
+- term: "hypertension"
+  type: "diagnosis"
+- term: "diabetes mellitus type 2"
+  type: "diagnosis"
+- term: "chronic kidney disease"
+  type: "diagnosis"
+- term: "ischemic heart disease"
+  type: "diagnosis"
+- term: "chronic obstructive pulmonary disease"
+  type: "diagnosis"
+
+# Acute Conditions
+- term: "community acquired pneumonia"
+  type: "diagnosis"
+- term: "acute kidney injury"
+  type: "diagnosis"
+- term: "acute heart failure"
+  type: "diagnosis"
+- term: "upper gastrointestinal bleeding"
+  type: "diagnosis"
+- term: "sepsis"
+  type: "diagnosis"
+
+# Symptoms
+- term: "fever"
+  type: "symptom"
+- term: "shortness of breath"
+  type: "symptom"
+- term: "chest pain"
+  type: "symptom"
+- term: "fatigue"
+  type: "symptom"
+- term: "weight loss"
+  type: "symptom"
+
+# Investigations
+- term: "complete blood count"
+  type: "investigation"
+- term: "renal function tests"
+  type: "investigation"
+- term: "liver function tests"
+  type: "investigation"
+- term: "chest x-ray"
+  type: "investigation"
+- term: "electrocardiogram"
+  type: "investigation"
