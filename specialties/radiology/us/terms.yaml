@@ -1,0 +1,32 @@
+- term: "hepatic cyst"
+  category: "lesion"
+  organ: "liver"
+  nature: "benign"
+
+- term: "fatty liver"
+  category: "parenchymal disease"
+  grades: ["grade I", "grade II", "grade III"]
+
+- term: "gallstones"
+  category: "calculus"
+  organ: "gallbladder"
+
+- term: "hydronephrosis"
+  category: "collecting system"
+  grades: ["mild", "moderate", "severe"]
+
+- term: "renal calculus"
+  category: "calculus"
+  organ: "kidney"
+
+- term: "ovarian cyst"
+  category: "lesion"
+  organ: "ovary"
+
+- term: "uterine fibroid"
+  category: "mass"
+  organ: "uterus"
+
+- term: "prostatic enlargement"
+  category: "organ size"
+  organ: "prostate"
