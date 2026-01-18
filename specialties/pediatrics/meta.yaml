@@ -1,3 +1,5 @@
-specialty: pediatrics
-model_size: large
-version: 1.0.0
+specialty: "Pediatrics"
+model_size: "large"
+source: "Dragon vocabulary mapping (conceptual)"
+version: "1.0.0"
+status: "placeholder"
