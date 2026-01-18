@@ -45,3 +45,49 @@ Additional specialties are scaffolded and open for contribution.
 
 ## 📁 Repository Structure
 
+---
+
+## 🚀 Intended Use Cases
+
+- Medical dictation and transcription engines
+- AI clinical note generation
+- Radiology and ultrasound reporting
+- Research and NLP benchmarking
+- Hospital documentation systems
+
+---
+
+## 🤝 Contributing
+
+OMVS welcomes contributions from:
+- Clinicians
+- Researchers
+- Medical students
+- Developers working in healthcare
+
+Please see:
+- `docs/contributing.md`
+- `governance/GOVERNANCE.md`
+
+---
+
+## 📄 License
+
+OMVS is released under an open-source license for community and institutional use.
+(See LICENSE file.)
+
+---
+
+## 📌 Status
+
+**Current Release:** v1.0  
+**Project State:** Production-ready core, expanding specialty coverage
+
+---
+
+## 📬 Contact
+
+Project initiated and maintained by clinicians.
+Community governance model applies.
+
+
