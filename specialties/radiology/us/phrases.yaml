@@ -1,0 +1,14 @@
+- phrase: "there is"
+  intent: "finding"
+
+- phrase: "measuring"
+  intent: "measurement"
+
+- phrase: "suggestive of"
+  intent: "impression"
+
+- phrase: "no evidence of"
+  intent: "negative_finding"
+
+- phrase: "visualized"
+  intent: "technical_quality"
