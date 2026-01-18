@@ -1,0 +1,14 @@
+modality: "mri"
+description: "Magnetic Resonance Imaging structured vocabulary and reporting logic"
+version: "1.0.0"
+sequences:
+  - T1
+  - T2
+  - FLAIR
+  - DWI
+  - ADC
+  - GRE
+  - SWI
+contrast:
+  - non-contrast
+  - contrast-enhanced

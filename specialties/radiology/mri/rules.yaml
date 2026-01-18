@@ -1,0 +1,7 @@
+- rule: "dwi-adc-correlation"
+  description: "Restricted diffusion should correlate with low ADC values"
+  action: "suggest"
+
+- rule: "contrast-enhancement-check"
+  description: "Enhancement description requires contrast administration"
+  action: "flag"

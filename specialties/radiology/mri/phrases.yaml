@@ -1,0 +1,8 @@
+- phrase: "shows restricted diffusion"
+  intent: "acute pathology"
+
+- phrase: "hyperintense on T2"
+  intent: "signal_description"
+
+- phrase: "enhances post contrast"
+  intent: "contrast_enhancement"

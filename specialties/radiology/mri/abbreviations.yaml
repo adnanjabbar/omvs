@@ -1,0 +1,11 @@
+- abbreviation: "DWI"
+  expansion: "diffusion weighted imaging"
+
+- abbreviation: "ADC"
+  expansion: "apparent diffusion coefficient"
+
+- abbreviation: "FLAIR"
+  expansion: "fluid attenuated inversion recovery"
+
+- abbreviation: "SWI"
+  expansion: "susceptibility weighted imaging"

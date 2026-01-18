@@ -1,0 +1,20 @@
+- term: "restricted diffusion"
+  category: "diffusion"
+
+- term: "vasogenic edema"
+  category: "signal abnormality"
+
+- term: "cytotoxic edema"
+  category: "signal abnormality"
+
+- term: "ring enhancing lesion"
+  category: "lesion"
+
+- term: "white matter hyperintensity"
+  category: "signal abnormality"
+
+- term: "blooming on GRE"
+  category: "hemorrhage"
+
+- term: "mass effect"
+  category: "secondary sign"

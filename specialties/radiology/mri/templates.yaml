@@ -1,0 +1,8 @@
+report:
+  sections:
+    - technique
+    - findings
+    - impression
+
+technique:
+  default: "MRI was performed using standard protocol including multiplanar sequences."
