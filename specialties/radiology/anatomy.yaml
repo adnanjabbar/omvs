@@ -1,0 +1,24 @@
+- anatomy: "liver"
+  subregions: ["right lobe", "left lobe", "caudate lobe"]
+
+- anatomy: "kidney"
+  laterality: ["right", "left"]
+  subregions: ["upper pole", "mid pole", "lower pole"]
+
+- anatomy: "gallbladder"
+
+- anatomy: "pancreas"
+  subregions: ["head", "body", "tail"]
+
+- anatomy: "spleen"
+
+- anatomy: "uterus"
+  subregions: ["fundus", "body", "cervix"]
+
+- anatomy: "ovary"
+  laterality: ["right", "left"]
+
+- anatomy: "prostate"
+
+- anatomy: "thyroid"
+  laterality: ["right", "left", "isthmus"]
