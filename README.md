@@ -51,7 +51,8 @@ integration/ # AI & transcription integration guides
 docs/ # Documentation & whitepaper
 tools/ # Validation and tooling
 governance/ # Governance & code of conduct
-adoption/ # Hospital & academic adoption guides
+doption/ # Hospital & academic adoption guide
+
 ---
 
 ## 🚀 Intended Use Cases
