@@ -1,0 +1,7 @@
+specialty: "radiology"
+model_size: "large"
+description: "Sub-modular structured radiology vocabulary and reporting logic"
+language: "en-US"
+version: "1.0.0"
+structure: "sub-modular"
+maintainer: "OMVS Community"

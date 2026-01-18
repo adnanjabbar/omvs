@@ -1,0 +1,7 @@
+- anatomy: "liver"
+  subregions: ["right lobe", "left lobe", "caudate lobe"]
+- anatomy: "kidney"
+  laterality: ["right", "left"]
+- anatomy: "gallbladder"
+- anatomy: "pancreas"
+- anatomy: "spleen"

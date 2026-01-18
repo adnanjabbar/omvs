@@ -1,0 +1,2 @@
+- rule: "laterality-consistency"
+  action: "flag"
