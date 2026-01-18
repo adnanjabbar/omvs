@@ -1,0 +1,4 @@
+specialty: "urology"
+model_size: "large"
+description: "Urology vocabulary with ultrasound and doppler focus"
+version: "1.0.0"

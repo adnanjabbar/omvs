@@ -1,0 +1,4 @@
+specialty: "cardiology"
+model_size: "large"
+description: "Cardiology vocabulary including ECG, echocardiography, and clinical cardiology"
+version: "1.0.0"

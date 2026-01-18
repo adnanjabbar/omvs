@@ -1,0 +1,4 @@
+specialty: "neurology"
+model_size: "large"
+description: "Neurology vocabulary with MRI-centric focus"
+version: "1.0.0"
