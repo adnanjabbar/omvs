@@ -1,0 +1,7 @@
+- rule: "stone-shadow-rule"
+  description: "Calculi should demonstrate posterior acoustic shadow"
+  action: "suggest"
+
+- rule: "cyst-criteria"
+  description: "Simple cyst should be anechoic with posterior enhancement"
+  action: "suggest"
