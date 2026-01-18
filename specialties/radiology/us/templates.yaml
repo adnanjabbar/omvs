@@ -1,0 +1,20 @@
+report:
+  sections:
+    - technique
+    - findings
+    - impression
+
+technique:
+  default: "Ultrasound examination was performed using a high-frequency transducer."
+
+findings:
+  order:
+    - liver
+    - gallbladder
+    - pancreas
+    - spleen
+    - kidneys
+    - pelvis
+
+impression:
+  style: "concise"
