@@ -1,0 +1,13 @@
+- rule: "laterality-consistency"
+  description: "Laterality must remain consistent within a finding"
+  action: "flag"
+
+- rule: "measurement-required"
+  applies_to: "lesion"
+  action: "warn_if_missing"
+
+- rule: "normal-contradiction"
+  pattern:
+    - "normal"
+    - "abnormal"
+  action: "alert_user"
