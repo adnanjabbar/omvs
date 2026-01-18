@@ -1,6 +1,5 @@
 specialty: "Urology"
 model_size: "large"
-source: "Dragon vocabulary mapping (conceptual)"
 version: "1.0.0"
-status: "placeholder"
-note: "May overlap with existing specialty; duplication allowed safely"
+status: "complete"
+description: "Comprehensive Urology vocabulary with strong emphasis on ultrasound, Doppler, and clinical urology"

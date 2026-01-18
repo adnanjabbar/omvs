@@ -1,1 +1,63 @@
-# To be populated
+# Prostate
+- term: "benign prostatic hyperplasia"
+  type: "diagnosis"
+- term: "prostate carcinoma"
+  type: "diagnosis"
+- term: "prostatitis"
+  type: "diagnosis"
+
+# Kidney & Ureter
+- term: "renal calculus"
+  type: "diagnosis"
+- term: "hydronephrosis"
+  type: "diagnosis"
+- term: "chronic kidney disease"
+  type: "diagnosis"
+- term: "acute kidney injury"
+  type: "diagnosis"
+
+# Bladder
+- term: "urinary tract infection"
+  type: "diagnosis"
+- term: "cystitis"
+  type: "diagnosis"
+- term: "bladder outlet obstruction"
+  type: "diagnosis"
+
+# Testes & Scrotum
+- term: "hydrocele"
+  type: "diagnosis"
+- term: "varicocele"
+  type: "diagnosis"
+- term: "testicular torsion"
+  type: "diagnosis"
+- term: "epididymo-orchitis"
+  type: "diagnosis"
+
+# Symptoms
+- term: "lower urinary tract symptoms"
+  type: "symptom"
+- term: "hematuria"
+  type: "symptom"
+- term: "dysuria"
+  type: "symptom"
+- term: "urinary retention"
+  type: "symptom"
+
+# Procedures / Imaging
+- term: "transabdominal ultrasound"
+  type: "procedure"
+- term: "transrectal ultrasound"
+  type: "procedure"
+- term: "penile doppler ultrasound"
+  type: "procedure"
+- term: "uroflowmetry"
+  type: "procedure"
+
+# Doppler Parameters
+- term: "peak systolic velocity"
+  type: "doppler_measurement"
+- term: "end diastolic velocity"
+  type: "doppler_measurement"
+- term: "resistive index"
+  type: "doppler_measurement"

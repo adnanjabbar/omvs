@@ -1,1 +1,10 @@
-# To be populated
+- abbreviation: "BPH"
+  expansion: "benign prostatic hyperplasia"
+- abbreviation: "LUTS"
+  expansion: "lower urinary tract symptoms"
+- abbreviation: "PSA"
+  expansion: "prostate specific antigen"
+- abbreviation: "TRUS"
+  expansion: "transrectal ultrasound"
+- abbreviation: "ED"
+  expansion: "erectile dysfunction"

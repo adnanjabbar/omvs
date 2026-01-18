@@ -1,1 +1,9 @@
-# To be populated
+report:
+  sections:
+    - chief_complaint
+    - history
+    - examination
+    - investigations
+    - imaging
+    - impression
+    - plan

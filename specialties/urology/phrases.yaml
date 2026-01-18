@@ -1,1 +1,8 @@
-# To be populated
+- phrase: "patient complains of"
+  intent: "chief_complaint"
+- phrase: "ultrasound shows"
+  intent: "imaging_finding"
+- phrase: "doppler evaluation reveals"
+  intent: "doppler_interpretation"
+- phrase: "suggestive of"
+  intent: "impression"

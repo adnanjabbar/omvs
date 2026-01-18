@@ -1,1 +1,11 @@
-# To be populated
+- rule: "hydronephrosis-grading"
+  description: "Hydronephrosis should be graded as mild, moderate, or severe"
+  action: "suggest"
+
+- rule: "prostate-volume-reporting"
+  description: "Prostate size and volume should be documented in BPH evaluation"
+  action: "enforce"
+
+- rule: "penile-doppler-criteria"
+  description: "PSV, EDV, and RI must be documented in penile Doppler studies"
+  action: "enforce"
