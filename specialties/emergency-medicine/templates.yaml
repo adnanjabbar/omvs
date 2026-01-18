@@ -1,1 +1,9 @@
-# To be populated
+report:
+  sections:
+    - triage
+    - chief_complaint
+    - history
+    - examination
+    - investigations
+    - management
+    - disposition

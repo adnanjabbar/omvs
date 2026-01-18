@@ -1,1 +1,7 @@
-# To be populated
+- rule: "time-critical-diagnosis"
+  description: "Stroke, MI, and sepsis require time-stamping"
+  action: "alert_user"
+
+- rule: "airway-priority"
+  description: "Airway assessment must precede circulation in trauma"
+  action: "enforce"

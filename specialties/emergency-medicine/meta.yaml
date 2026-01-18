@@ -1,5 +1,5 @@
 specialty: "Emergency Medicine"
 model_size: "large"
-source: "Dragon vocabulary mapping (conceptual)"
 version: "1.0.0"
-status: "placeholder"
+status: "complete"
+description: "Comprehensive Emergency Medicine vocabulary for acute care, trauma, and triage"

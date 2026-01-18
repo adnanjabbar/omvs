@@ -1,1 +1,8 @@
-# To be populated
+- phrase: "patient presents with"
+  intent: "chief_complaint"
+- phrase: "on arrival"
+  intent: "triage"
+- phrase: "emergency intervention performed"
+  intent: "procedure"
+- phrase: "patient stabilized"
+  intent: "outcome"

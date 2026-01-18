@@ -1,1 +1,10 @@
-# To be populated
+- abbreviation: "ACS"
+  expansion: "acute coronary syndrome"
+- abbreviation: "MI"
+  expansion: "myocardial infarction"
+- abbreviation: "CVA"
+  expansion: "cerebrovascular accident"
+- abbreviation: "CPR"
+  expansion: "cardiopulmonary resuscitation"
+- abbreviation: "ETT"
+  expansion: "endotracheal tube"

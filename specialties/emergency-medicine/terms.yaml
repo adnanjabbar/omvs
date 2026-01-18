@@ -1,1 +1,47 @@
-# To be populated
+# Diagnoses
+- term: "acute coronary syndrome"
+  type: "diagnosis"
+- term: "myocardial infarction"
+  type: "diagnosis"
+- term: "stroke"
+  type: "diagnosis"
+- term: "sepsis"
+  type: "diagnosis"
+- term: "anaphylaxis"
+  type: "diagnosis"
+- term: "polytrauma"
+  type: "diagnosis"
+
+# Symptoms
+- term: "chest pain"
+  type: "symptom"
+- term: "shortness of breath"
+  type: "symptom"
+- term: "loss of consciousness"
+  type: "symptom"
+- term: "altered mental status"
+  type: "symptom"
+- term: "abdominal pain"
+  type: "symptom"
+- term: "bleeding"
+  type: "symptom"
+
+# Procedures
+- term: "endotracheal intubation"
+  type: "procedure"
+- term: "cardiopulmonary resuscitation"
+  type: "procedure"
+- term: "defibrillation"
+  type: "procedure"
+- term: "central venous catheter"
+  type: "procedure"
+
+# Vitals
+- term: "blood pressure"
+  type: "vital"
+- term: "heart rate"
+  type: "vital"
+- term: "respiratory rate"
+  type: "vital"
+- term: "oxygen saturation"
+  type: "vital"
