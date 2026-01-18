@@ -21,7 +21,7 @@ OMVS is under active development with transparent progress tracking.
 👉 **[View detailed progress → PROGRESS.md](PROGRESS.md)**
 
 ### Snapshot
-- 🚑 Emergency Medicine: **60% complete**
+- 🚑 Emergency Medicine: **80% complete**
 - 🩺 Internal Medicine: **20%**
 - ❤️ Cardiology: **30%**
 - 🟦 Urology: **30%**
