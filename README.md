@@ -45,6 +45,13 @@ Additional specialties are scaffolded and open for contribution.
 
 ## 📁 Repository Structure
 
+specialties/ # Specialty-specific vocabularies
+api/ # OpenAPI definitions
+integration/ # AI & transcription integration guides
+docs/ # Documentation & whitepaper
+tools/ # Validation and tooling
+governance/ # Governance & code of conduct
+adoption/ # Hospital & academic adoption guides
 ---
 
 ## 🚀 Intended Use Cases
