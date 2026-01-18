@@ -1,0 +1,8 @@
+- abbreviation: "NCCT"
+  expansion: "non-contrast computed tomography"
+
+- abbreviation: "CECT"
+  expansion: "contrast-enhanced computed tomography"
+
+- abbreviation: "HU"
+  expansion: "hounsfield unit"

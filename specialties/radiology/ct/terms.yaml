@@ -1,0 +1,26 @@
+- term: "hypodense lesion"
+  category: "attenuation"
+
+- term: "hyperdense lesion"
+  category: "attenuation"
+
+- term: "isodense lesion"
+  category: "attenuation"
+
+- term: "enhancing mass"
+  category: "lesion"
+
+- term: "non-enhancing lesion"
+  category: "lesion"
+
+- term: "calcification"
+  category: "finding"
+
+- term: "lymphadenopathy"
+  category: "nodal disease"
+
+- term: "organomegaly"
+  category: "organ size"
+
+- term: "free fluid"
+  category: "finding"

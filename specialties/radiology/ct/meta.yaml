@@ -1,0 +1,7 @@
+modality: "ct"
+description: "Computed Tomography structured vocabulary and reporting logic"
+version: "1.0.0"
+contrast:
+  - non-contrast
+  - contrast-enhanced
+  - multiphasic

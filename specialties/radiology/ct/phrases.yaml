@@ -1,0 +1,8 @@
+- phrase: "contrast study shows"
+  intent: "contrast_phase_finding"
+
+- phrase: "non contrast images reveal"
+  intent: "non_contrast_finding"
+
+- phrase: "post contrast images demonstrate"
+  intent: "enhancement"

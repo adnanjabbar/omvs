@@ -1,0 +1,7 @@
+- rule: "hu-documentation"
+  description: "Attenuation values should be documented in HU where applicable"
+  action: "suggest"
+
+- rule: "contrast-dependency"
+  description: "Enhancement description requires contrast administration"
+  action: "flag"

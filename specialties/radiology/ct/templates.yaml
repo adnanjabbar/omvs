@@ -1,0 +1,8 @@
+report:
+  sections:
+    - technique
+    - findings
+    - impression
+
+technique:
+  default: "CT scan was performed using appropriate protocol and reconstruction."
