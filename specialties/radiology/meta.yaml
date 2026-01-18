@@ -1,0 +1,14 @@
+specialty: "radiology"
+model_size: "large"
+description: "Modality-based structured radiology vocabulary and reporting logic"
+language: "en-US"
+version: "1.0.0"
+structure: "sub-modular"
+modalities:
+  - ultrasound
+  - ct
+  - mri
+  - xray
+  - doppler
+maintainer: "OMVS Community"
+status: "active"
