@@ -1,5 +1,6 @@
 specialty: "Emergency Medicine"
-model_size: "large"
+model_size: "xlarge"
 version: "1.0.0"
 status: "complete"
-description: "Comprehensive Emergency Medicine vocabulary for acute care, trauma, and triage"
+lexical_coverage: "bulk"
+description: "Extensive bulk Emergency Medicine vocabulary corpus (Option B)"

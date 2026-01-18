@@ -1,3 +1,3 @@
 ## v1.0.0
-- Initial complete Emergency Medicine release
-- Acute care, trauma, and resuscitation coverage
+- Bulk Emergency Medicine XL vocabulary generated (Option B)
+- Monolithic corpus for large-scale ingestion
