@@ -1,0 +1,8 @@
+report:
+  sections:
+    - technique
+    - findings
+    - impression
+
+technique:
+  default: "Doppler evaluation was performed using color and spectral analysis."

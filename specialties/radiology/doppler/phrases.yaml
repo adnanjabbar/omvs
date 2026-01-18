@@ -1,0 +1,8 @@
+- phrase: "elevated psv"
+  intent: "arterial stenosis"
+
+- phrase: "no compressibility"
+  intent: "venous thrombosis"
+
+- phrase: "normal triphasic flow"
+  intent: "normal arterial flow"

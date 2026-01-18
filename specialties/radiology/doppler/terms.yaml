@@ -1,0 +1,23 @@
+- term: "arterial stenosis"
+  category: "arterial disease"
+
+- term: "venous thrombosis"
+  category: "venous disease"
+
+- term: "spectral broadening"
+  category: "waveform abnormality"
+
+- term: "monophasic waveform"
+  category: "waveform pattern"
+
+- term: "biphasic waveform"
+  category: "waveform pattern"
+
+- term: "triphasic waveform"
+  category: "normal waveform"
+
+- term: "loss of phasicity"
+  category: "venous abnormality"
+
+- term: "color aliasing"
+  category: "color doppler finding"

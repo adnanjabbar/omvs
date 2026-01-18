@@ -1,0 +1,7 @@
+- rule: "stenosis-criteria"
+  description: "Arterial stenosis grading should correlate with PSV thresholds"
+  action: "suggest"
+
+- rule: "dvt-compressibility"
+  description: "Lack of venous compressibility suggests thrombosis"
+  action: "alert_user"

@@ -1,0 +1,14 @@
+- abbreviation: "PSV"
+  expansion: "peak systolic velocity"
+
+- abbreviation: "EDV"
+  expansion: "end diastolic velocity"
+
+- abbreviation: "RI"
+  expansion: "resistive index"
+
+- abbreviation: "PI"
+  expansion: "pulsatility index"
+
+- abbreviation: "DVT"
+  expansion: "deep vein thrombosis"
