@@ -1,5 +1,4 @@
-- term: "myocardial infarction"
-- term: "ischemic heart disease"
-- term: "heart failure"
-- term: "cardiomyopathy"
-- term: "valvular heart disease"
+- term: myocardial infarction
+- term: heart failure
+- term: arrhythmia
+- term: valvular heart disease

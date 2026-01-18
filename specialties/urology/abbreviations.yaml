@@ -1,6 +1,4 @@
-- abbreviation: "BPH"
-  expansion: "benign prostatic hyperplasia"
-- abbreviation: "KUB"
-  expansion: "kidney ureter bladder"
-- abbreviation: "PSA"
-  expansion: "prostate specific antigen"
+- abbreviation: BPH
+  expansion: benign prostatic hyperplasia
+- abbreviation: PSA
+  expansion: prostate specific antigen

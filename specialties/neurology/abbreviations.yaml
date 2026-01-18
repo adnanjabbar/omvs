@@ -1,6 +1,4 @@
-- abbreviation: "CVA"
-  expansion: "cerebrovascular accident"
-- abbreviation: "ICH"
-  expansion: "intracerebral hemorrhage"
-- abbreviation: "MS"
-  expansion: "multiple sclerosis"
+- abbreviation: CVA
+  expansion: cerebrovascular accident
+- abbreviation: ICH
+  expansion: intracerebral hemorrhage

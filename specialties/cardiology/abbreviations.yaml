@@ -1,6 +1,4 @@
-- abbreviation: "MI"
-  expansion: "myocardial infarction"
-- abbreviation: "EF"
-  expansion: "ejection fraction"
-- abbreviation: "LVH"
-  expansion: "left ventricular hypertrophy"
+- abbreviation: MI
+  expansion: myocardial infarction
+- abbreviation: EF
+  expansion: ejection fraction
