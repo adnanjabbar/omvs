@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-active_development-blue)
+![Emergency Medicine](https://img.shields.io/badge/emergency_medicine-60%25-green)
+![License](https://img.shields.io/badge/license-open_source-brightgreen)
+
+
 # Open Medical Vocabulary Schema (OMVS)
 
 **OMVS** is an open, clinician-led medical vocabulary and language normalization framework designed
@@ -6,6 +11,20 @@ across multiple medical specialties.
 
 OMVS provides a standardized, specialty-aware medical language layer that can be safely used by
 humans, software systems, and artificial intelligence in clinical environments.
+
+---
+
+## 📊 Project Development Status
+
+OMVS is under active development with transparent progress tracking.
+
+👉 **[View detailed progress → PROGRESS.md](PROGRESS.md)**
+
+### Snapshot
+- 🚑 Emergency Medicine: **60% complete**
+- 🩺 Internal Medicine: **20%**
+- ❤️ Cardiology: **30%**
+- 🟦 Urology: **30%**
 
 ---
 
