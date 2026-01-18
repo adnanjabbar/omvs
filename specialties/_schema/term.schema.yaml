@@ -1,0 +1,11 @@
+term: string
+type: diagnosis|symptom|finding|measurement|anatomy
+modality: us|ct|mri|xray|doppler|ecg|echo|null
+system: string|null
+abbreviations: [string]
+synonyms: [string]
+chronic: boolean
+context:
+  include: [string]
+  exclude: [string]
+priority: float

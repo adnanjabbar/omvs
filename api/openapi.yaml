@@ -1,0 +1,21 @@
+openapi: 3.0.0
+info:
+  title: OMVS API
+  version: 1.1.0
+paths:
+  /resolve:
+    post:
+      summary: Resolve medical abbreviations and normalize text
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                text:
+                  type: string
+                specialty:
+                  type: string
+      responses:
+        '200':
+          description: Normalized medical text
