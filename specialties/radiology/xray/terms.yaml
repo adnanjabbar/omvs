@@ -1,0 +1,20 @@
+- term: "consolidation"
+  category: "parenchymal opacity"
+
+- term: "ground glass opacity"
+  category: "parenchymal opacity"
+
+- term: "pleural effusion"
+  category: "pleural disease"
+
+- term: "pneumothorax"
+  category: "pleural disease"
+
+- term: "cardiomegaly"
+  category: "cardiac silhouette"
+
+- term: "rib fracture"
+  category: "osseous injury"
+
+- term: "scoliosis"
+  category: "spinal alignment"

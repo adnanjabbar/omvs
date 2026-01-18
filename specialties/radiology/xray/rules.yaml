@@ -1,0 +1,7 @@
+- rule: "laterality-check"
+  description: "Side should be specified for fractures or focal findings"
+  action: "flag"
+
+- rule: "view-mention"
+  description: "X-ray report should mention views obtained"
+  action: "suggest"

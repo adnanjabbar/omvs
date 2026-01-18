@@ -1,0 +1,5 @@
+- phrase: "x-ray shows"
+  intent: "finding"
+
+- phrase: "no acute bony injury"
+  intent: "negative_finding"

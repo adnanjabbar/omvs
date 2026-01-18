@@ -1,0 +1,8 @@
+modality: "xray"
+description: "Plain radiography structured vocabulary and reporting logic"
+version: "1.0.0"
+views:
+  - AP
+  - PA
+  - Lateral
+  - Oblique

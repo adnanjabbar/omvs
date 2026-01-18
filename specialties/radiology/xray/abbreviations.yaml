@@ -1,0 +1,8 @@
+- abbreviation: "AP"
+  expansion: "anteroposterior"
+
+- abbreviation: "PA"
+  expansion: "posteroanterior"
+
+- abbreviation: "CXR"
+  expansion: "chest x-ray"

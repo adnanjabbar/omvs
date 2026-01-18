@@ -1,0 +1,8 @@
+report:
+  sections:
+    - views
+    - findings
+    - impression
+
+views:
+  default: "AP and lateral views were obtained."
