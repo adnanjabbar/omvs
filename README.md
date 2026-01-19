@@ -145,10 +145,11 @@ OMVS does **not** replace clinical judgment.
 
 **Dr. Adnan Jabbar**
 
-- Medical Doctor
-- Fertility Specialist & Clinical Embryologist
-- Experience in radiology workflows, ultrasound, Doppler, IVF, and clinical documentation
-- Strong interest in medical AI, transcription systems, and open clinical infrastructure
+- Medical Doctor (MBBS, DFM, MH, MPH (Cont.), Clinical Embryology, Family & Emergency Medicine)
+- Family Medicine, Emergency Medicine, Fertility Medicine, IVF Embryology Specialist.
+- Experience in clinical documentation and clinical infrastructure.
+- Strong interest in medical AI, transcription systems, and open clinical infrastructure.
+- [LinkedIn](https//www.linkedin.com/in/adnanjabbar)
 
 OMVS was initiated to bridge the gap between **clinical reality** and **medical AI systems**.
 
