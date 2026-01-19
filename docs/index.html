@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>OMVS Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+body { font-family: Arial, sans-serif; background:#f5f7fa; margin:40px; }
+h1 { color:#2c3e50; }
+.container { max-width:900px; margin:auto; background:white; padding:30px; border-radius:8px; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Open Medical Vocabulary System (OMVS)</h1>
+<p>Visual progress dashboard for specialty vocabulary development.</p>
+<canvas id="progressChart"></canvas>
+</div>
+
+<script>
+fetch('data/progress.json')
+.then(res => res.json())
+.then(data => {
+const labels = Object.keys(data);
+const values = Object.values(data);
+new Chart(document.getElementById('progressChart'), {
+type: 'bar',
+data: {
+labels: labels,
+datasets: [{
+label: 'Completion %',
+data: values,
+backgroundColor: ['#27ae60','#f1c40f','#f1c40f','#f1c40f','#3498db']
+}]
+},
+options: { scales: { y: { beginAtZero:true, max:100 } } }
+});
+});
+</script>
+</body>
+</html>
